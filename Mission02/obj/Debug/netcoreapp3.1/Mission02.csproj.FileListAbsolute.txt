@@ -16,3 +16,36 @@
 /Users/jacob.poor98/Documents/Junior Year - BYU/IS 413/Mission02/Mission02/Mission02/obj/Debug/netcoreapp3.1/Mission02.dll
 /Users/jacob.poor98/Documents/Junior Year - BYU/IS 413/Mission02/Mission02/Mission02/obj/Debug/netcoreapp3.1/Mission02.pdb
 /Users/jacob.poor98/Documents/Junior Year - BYU/IS 413/Mission02/Mission02/Mission02/obj/Debug/netcoreapp3.1/Mission02.genruntimeconfig.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.deps.json
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.runtimeconfig.json
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.runtimeconfig.dev.json
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.dll
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.pdb
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.Views.dll
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/bin/Debug/netcoreapp3.1/Mission02.Views.pdb
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.csproj.AssemblyReference.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.AssemblyInfoInputs.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.AssemblyInfo.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.csproj.CoreCompileInputs.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.MvcApplicationPartsAssemblyInfo.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.RazorAssemblyInfo.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.RazorAssemblyInfo.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/staticwebassets/Mission02.StaticWebAssets.Manifest.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.TagHelpers.input.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.TagHelpers.output.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.RazorCoreGenerate.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Shared/_Layout.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/_ViewImports.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/_ViewStart.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.RazorTargetAssemblyInfo.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.RazorTargetAssemblyInfo.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.Views.pdb
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.dll
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.pdb
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.genruntimeconfig.cache
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.csproj.CopyComplete
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Blah/Calculator.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Blah/Index.cshtml.g.cs

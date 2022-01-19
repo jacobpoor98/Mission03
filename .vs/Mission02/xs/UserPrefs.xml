@@ -1,14 +1,33 @@
 ﻿<Properties StartupConfiguration="{D5EF785A-77FA-49BA-83C7-BF07544D6B92}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission02/views/Blah/Calculator.cshtml">
+    <Files>
+      <File FileName="Mission02/Controllers/HomeController.cs" Line="15" Column="34" />
+      <File FileName="Mission02/models/EmptyClass.cs" Line="8" Column="63" />
+      <File FileName="Mission02/views/Shared/Index.cshtml" Line="18" Column="30" />
+      <File FileName="Mission02/views/Shared/Index.cshtml" Line="12" Column="1" />
+      <File FileName="Mission02/views/Pages/Calculator.cshtml" Line="27" Column="34" />
+      <File FileName="Mission02/Startup.cs" Line="40" Column="16" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission02" expanded="True">
             <Node name="Mission02" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="models" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True" selected="True" />
+              <Node name="views" expanded="True">
+                <Node name="Blah" expanded="True">
+                  <Node name="Calculator.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
