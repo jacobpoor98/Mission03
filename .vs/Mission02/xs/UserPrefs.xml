@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{D5EF785A-77FA-49BA-83C7-BF07544D6B92}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission02/views/Blah/Calculator.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission02/views/Home/Index.cshtml">
     <Files>
-      <File FileName="Mission02/Controllers/HomeController.cs" Line="15" Column="34" />
-      <File FileName="Mission02/models/EmptyClass.cs" Line="8" Column="63" />
-      <File FileName="Mission02/views/Shared/Index.cshtml" Line="18" Column="30" />
-      <File FileName="Mission02/views/Shared/Index.cshtml" Line="12" Column="1" />
-      <File FileName="Mission02/views/Pages/Calculator.cshtml" Line="27" Column="34" />
-      <File FileName="Mission02/Startup.cs" Line="40" Column="16" />
+      <File FileName="Mission02/Controllers/HomeController.cs" Line="16" Column="10" />
+      <File FileName="Mission02/Startup.cs" Line="38" Column="47" />
+      <File FileName="Mission02/views/Shared/_Layout.cshtml" Line="25" Column="20" />
+      <File FileName="Mission02/views/Home/Calculator.cshtml" Line="43" Column="7" />
+      <File FileName="Mission02/models/Calculator.cs" Line="21" Column="24" />
+      <File FileName="Mission02/views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Mission02/views/Home/Index.cshtml" Line="5" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,17 +16,11 @@
             <Node name="Mission02" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="models" expanded="True" />
-              <Node name="Properties" expanded="True" />
               <Node name="views" expanded="True">
-                <Node name="Blah" expanded="True">
-                  <Node name="Calculator.cshtml" selected="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
                 </Node>
                 <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True">
-                  <Node name="jquery" expanded="True" />
-                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>

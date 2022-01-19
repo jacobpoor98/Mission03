@@ -47,5 +47,5 @@
 /Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.pdb
 /Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.genruntimeconfig.cache
 /Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Mission02.csproj.CopyComplete
-/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Blah/Calculator.cshtml.g.cs
-/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Blah/Index.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Home/Calculator.cshtml.g.cs
+/Users/jacob.poor98/Documents/GitHub/Mission03/Mission02/obj/Debug/netcoreapp3.1/Razor/views/Home/Index.cshtml.g.cs

@@ -13,17 +13,18 @@
 <body>
 
     <nav>
-        <a asp-controller="Blah" asp-action="Index">Home</a>
-        <a asp-controller="Blah" asp-action="Calculator">Calculator</a>
+        <a asp-controller="Home" asp-action="Index">Home</a>
+        <a asp-controller="Home" asp-action="Calculator">Calculator</a>
     </nav>
 
     <div>
         @RenderBody()
     </div>
 
-    <script src="lib/bootstrap/js/bootstrap.js"></script>
-    <script src="lib/jquery/jquery-3.6.0.min.js"></script>
-    
+    <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    <script src="~/lib/jquery/jquery-3.6.0.min.js"></script>
+    <script src="~/js/calculator.js"></script>
+
 </body>
 
 </html>
